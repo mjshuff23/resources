@@ -1,37 +1,38 @@
 # **Career Quest Resources**
 
-## **Table of Contents**
+# **Table of Contents**
 
 1. [**Career Quest Resources**](#career-quest-resources)
-   1. [**Table of Contents**](#table-of-contents)
-   2. [**General**](#general)
-   3. [**Resume**](#resume)
-   4. [**Cover Letter**](#cover-letter)
-   5. [**Heroku** - _Use at your own risk_](#heroku---use-at-your-own-risk)
-2. [**Trivia**](#trivia)
-3. [**Language Resources**](#language-resources)
-4. [**DS&A**](#dsa)
-5. [**System Design**](#system-design)
-6. [**Interviewing**](#interviewing)
-7. [**Networking**](#networking)
-8. [**Managing and Organizing Job Search**](#managing-and-organizing-job-search)
-9. [**Negotiations**](#negotiations)
-10. [**Portfolio Sites**](#portfolio-sites)
+2. [**Table of Contents**](#table-of-contents)
+3. [**General**](#general)
+4. [**Resume**](#resume)
+5. [**Cover Letter**](#cover-letter)
+6. [**Heroku** - _Use at your own risk_](#heroku---use-at-your-own-risk)
+7. [**Trivia**](#trivia)
+8. [**Language Resources**](#language-resources)
+9. [**DS&A**](#dsa)
+   1. [**Hash Tables:**](#hash-tables)
+10. [**System Design**](#system-design)
+11. [**Interviewing**](#interviewing)
+12. [**Networking**](#networking)
+13. [**Managing and Organizing Job Search**](#managing-and-organizing-job-search)
+14. [**Negotiations**](#negotiations)
+15. [**Portfolio Sites**](#portfolio-sites)
    1. [**Template Sources**](#template-sources)
-11. [**QA Engineering**](#qa-engineering)
-12. [**Alternative Roles**](#alternative-roles)
-13. [**Externship**](#externship)
-14. [**Open Source**](#open-source)
-15. [**Volunteer**](#volunteer)
-16. [**Imposter Syndrome**](#imposter-syndrome)
-17. [**Podcasts**](#podcasts)
-18. [**Books**](#books)
-19. [**QA Questions**](#qa-questions)
-20. [**Maximum Length of a contract extension**](#maximum-length-of-a-contract-extension)
+16. [**QA Engineering**](#qa-engineering)
+17. [**Alternative Roles**](#alternative-roles)
+18. [**Externship**](#externship)
+19. [**Open Source**](#open-source)
+20. [**Volunteer**](#volunteer)
+21. [**Imposter Syndrome**](#imposter-syndrome)
+22. [**Podcasts**](#podcasts)
+23. [**Books**](#books)
+24. [**QA Questions**](#qa-questions)
+25. [**Maximum Length of a contract extension**](#maximum-length-of-a-contract-extension)
 
 <hr>
 
-## **General**
+# **General**
 
 - **[How To Break Into Tech - Job Hunting and Interviews by Haseeb Qureshi](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)**
 - **[Mintbean.io - Hackathons and Workshops](https://mintbean.io/)**
@@ -42,19 +43,19 @@
 
 <hr>
 
-## **Resume**
+# **Resume**
 
 - **[JobScan - ATS Resume Checker](https://www.jobscan.co/)**
   - mrodriguez@appacademy.io / JobScan2021
 - **[Spelling/Grammar mistakes on Resume costs jobs](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)**
 
-## **Cover Letter**
+# **Cover Letter**
 
 - **[Six C's of Business Communication](http://www.fsb.miamioh.edu/fsb/content/programs/howe-writing-initiative/HWI-handout-CsofBusComm.html)**
 
 <hr>
 
-## **Heroku** - _Use at your own risk_
+# **Heroku** - _Use at your own risk_
 
 - **[Keep Heroku App Awake For Free Using Google App Script](https://medium.com/@pandachain/keep-free-heroku-app-awake-during-a-specific-period-using-google-app-script-in-2017-63fe37ee9e9f)**
 - **[UptimeRobot](https://uptimerobot.com/)**
@@ -120,7 +121,7 @@
 - **[Leetcode](https://leetcode.com/explore)**
 - **[AlgoExpert](https://www.algoexpert.io/)**
 
-- ## **Hash Tables:**
+## **Hash Tables:**
   - **[What is a Hash Table](https://www.youtube.com/watch?v=shs0KM3wKv8)**
   - O(1) for a "good" table
   - O(n) for a terrible table (lots of collisions, etc.)
