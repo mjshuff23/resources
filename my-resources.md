@@ -11,22 +11,23 @@
 2. [**Trivia**](#trivia)
 3. [**Language Resources**](#language-resources)
 4. [**DS&A**](#dsa)
-   1. [**System Design**](#system-design)
-   2. [**Interviewing**](#interviewing)
-   3. [**Networking**](#networking)
-   4. [**Managing and Organizing Job Search**](#managing-and-organizing-job-search)
-   5. [**Negotiations**](#negotiations)
-   6. [**Portfolio Sites**](#portfolio-sites)
-   7. [**QA Engineering**](#qa-engineering)
-   8. [**Alternative Roles**](#alternative-roles)
-   9. [**Externship**](#externship)
-   10. [**Open Source**](#open-source)
-   11. [**Volunteer**](#volunteer)
-   12. [**Imposter Syndrome**](#imposter-syndrome)
-   13. [**Podcasts**](#podcasts)
-   14. [**Books**](#books)
-   15. [**QA Questions**](#qa-questions)
-   16. [**Maximum Length of a contract extension**](#maximum-length-of-a-contract-extension)
+5. [**System Design**](#system-design)
+6. [**Interviewing**](#interviewing)
+7. [**Networking**](#networking)
+8. [**Managing and Organizing Job Search**](#managing-and-organizing-job-search)
+9. [**Negotiations**](#negotiations)
+10. [**Portfolio Sites**](#portfolio-sites)
+   1. [**Template Sources**](#template-sources)
+11. [**QA Engineering**](#qa-engineering)
+12. [**Alternative Roles**](#alternative-roles)
+13. [**Externship**](#externship)
+14. [**Open Source**](#open-source)
+15. [**Volunteer**](#volunteer)
+16. [**Imposter Syndrome**](#imposter-syndrome)
+17. [**Podcasts**](#podcasts)
+18. [**Books**](#books)
+19. [**QA Questions**](#qa-questions)
+20. [**Maximum Length of a contract extension**](#maximum-length-of-a-contract-extension)
 
 <hr>
 
@@ -126,7 +127,7 @@
 
 <hr>
 
-## **System Design**
+# **System Design**
 
 - **[The Basics](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)**
 - **[Caching](https://levelup.gitconnected.com/everything-you-need-to-know-about-caching-system-design-932a6bdf3334)**
@@ -134,38 +135,38 @@
 
 <hr>
 
-## **Interviewing**
+# **Interviewing**
 
 - ### **Mock Interviewing**
   - **[Interviewing.io](https://interviewing.io/)**
 
 <hr>
 
-## **Networking**
+# **Networking**
 
 - **[MeetUp](https://www.meetup.com/)**
 
 <hr>
 
-## **Managing and Organizing Job Search**
+# **Managing and Organizing Job Search**
 
 - **[Notion](notion.so)**
   - Trillo clone but with added features that make it really great! Consider creating a template for new job seekers!
 
 <hr>
 
-## **Negotiations**
+# **Negotiations**
 
 - **[Haseeb's 10 Rules - Part 1](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)**
 - **[Haseeb's 10 Rules - Part 2](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)**
 
 <hr>
 
-## **Portfolio Sites**
+# **Portfolio Sites**
 
 Take 25 minutes to choose a template, download it, rename it githubusername.github.io , git init, and push it to a github repo of the same name:
 
-**Template Sources**
+## **Template Sources**
 
 - [**Free CSS Templates**](http://www.free-css.com/template-categories/portfolio)
 - [**HTML5 UP**](http://html5up.net/)
@@ -190,12 +191,12 @@ Take 25 minutes to choose a template, download it, rename it githubusername.gith
 
 <hr>
 
-## **QA Engineering**
+# **QA Engineering**
 
 - **[Full course in 7 day trial](https://teamtreehouse.com/library/introduction-to-qa-engineering)**
 - **[Prep Notes](https://docs.google.com/document/d/1REtlnM0j88iGgIkPmOyeuwf-VdhOSV6U0QkcPEz81Oc/edit)**
 
-## **Alternative Roles**
+# **Alternative Roles**
 
     Data Analyst
     Sales Engineer
@@ -213,13 +214,13 @@ Take 25 minutes to choose a template, download it, rename it githubusername.gith
 
 <hr>
 
-## **Externship**
+# **Externship**
 
 - **[insidesherpa](https://www.insidesherpa.com/)**
 
 <hr>
 
-## **Open Source**
+# **Open Source**
 
 - **[GitHub's open source guides](https://opensource.guide/)**
 - **[Getting started with open source](https://opensource.com/resources/getting-started-open-source)**
@@ -229,7 +230,7 @@ Take 25 minutes to choose a template, download it, rename it githubusername.gith
 
 <hr>
 
-## **Volunteer**
+# **Volunteer**
 
 - **[Code For America](https://www.codeforamerica.org/)**
 - **[Donate Code](https://www.donatecode.com/)**
@@ -239,7 +240,7 @@ Take 25 minutes to choose a template, download it, rename it githubusername.gith
 
 <hr>
 
-## **Imposter Syndrome**
+# **Imposter Syndrome**
 
 - **[The Imposter's Advantage - Zain Rizvi](https://www.zainrizvi.io/blog/the-impostors-advantage/)**
 - **[Stats on the tech giants](https://www.techrepublic.com/article/why-58-of-tech-employees-suffer-from-imposter-syndrome/)**
@@ -247,14 +248,14 @@ Take 25 minutes to choose a template, download it, rename it githubusername.gith
 
 <hr>
 
-## **Podcasts**
+# **Podcasts**
 
 - **[FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/)**
 - **[Codish Podcast](https://www.heroku.com/podcasts/codeish/85-the-new-definition-of-frontend-development)**
 
 <hr>
 
-## **Books**
+# **Books**
 
 - **Grokking the Coding Interview**
   - [GitHub Coding Questions](https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
@@ -269,7 +270,7 @@ Take 25 minutes to choose a template, download it, rename it githubusername.gith
 
 <hr>
 
-## **QA Questions**
+# **QA Questions**
 
 **10:22:12 From Alexis Kozak to Everyone : Scenario 1**
 
@@ -285,6 +286,6 @@ Take 25 minutes to choose a template, download it, rename it githubusername.gith
 
 <hr>
 
-## **Maximum Length of a contract extension**
+# **Maximum Length of a contract extension**
 
 - 3 months
