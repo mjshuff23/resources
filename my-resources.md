@@ -42,8 +42,6 @@
 
 # **Resume**
 
-- **[JobScan - ATS Resume Checker](https://www.jobscan.co/)**
-  - mrodriguez@appacademy.io / JobScan2021
 - **[Spelling/Grammar mistakes on Resume costs jobs](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)**
 
 # **Cover Letter**
