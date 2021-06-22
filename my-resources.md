@@ -118,8 +118,8 @@
 
 ## **Hash Tables:**
   - **[What is a Hash Table](https://www.youtube.com/watch?v=shs0KM3wKv8)**
-  - O(1) for a "good" table
-  - O(n) for a terrible table (lots of collisions, etc.)
+    - O(1) for a "good" table
+    - O(n) for a terrible table (lots of collisions, etc.)
 
 <hr>
 
